@@ -1,6 +1,6 @@
 Get Certifications like Cat A, B1, B2 then C.
 
-Category A : Certifying technician
+Category A : Certifying technician (basic technician)
 Category B1: Line maintenance certifying engineer - mechanical
 Category B2: Line maintenance certifying engineer - avionic
 Category C : Base maintenance certifying engineer
