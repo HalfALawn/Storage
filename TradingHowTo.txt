@@ -1,0 +1,139 @@
+Former Ex Head Market RiskUpvoted by 
+Marco Santanché
+, MSc Quantitative Finance & Financial Markets, Tor Vergata University of Rome (2017)Updated 3y
+Originally Answered: How do beginners learn to trade? What is the best way to learn trading as a beginner?
+I must have answered these questions 100s of times and I still wonder why people ask such questions.
+
+I don’t understand why anyone is interested in a “best way”. Wouldn't you argue a “best way” implies “everyone does it” and if “everyone does it” - how come most retail traders lose money?
+
+Most retail traders have their own trading methodologies. Based on background, (doctor, lawyer, pilot, banker, nurse, etc), and adjust this based on how comfortable they are with their level of risk appetite.
+
+The nurse might not go further than the “index funds”, the retard banker might go full-blown on high-end leverage products (suicidal products like daily or weekly options) - the doctor might do a bit of both.
+
+If you forget that all for a second, ultimately, people are generally greedy, meaning they seek excess money and for this are willing to take excess risk (read financial history books). That implies there is a huge pool of degenerates looking for “how to trade.” Degenerates or nicely called the clueless sheeple;
+
+
+Attracts another pool of folks; egocentric, anxiety driven grandiose sense of self-importance low-ball fishermen. A disgusting group of supply and demand you should try to avoid.
+
+That implies something else, the signal to noise ratio is off the charts online when it comes to any information that is of any value when it comes to trading.
+
+And through a CFA or a BSc Finance, you learn “standardized” practises, useless - like a drivers license doesn't make you a good driver. You do get that right?
+
+On top of that - if you start to learn based on standardized principles (like a BSc Finance) - after 3–4–5 years you are brainwashed - and if you ever wanted a career in banking - for graduates or juniors - banks first will through their employees through rigorous training to forget the shit they got taught.
+
+So - where do you start? Doesn't matter.
+
+Concepts.
+
+So what is a value of the stock where you could invest now and sell later for profit? Well? That question has 10001 answers. But perhaps keep it easy; look at a firm like an onion. Take everything off and all you see is income/cash buffer/costs.
+
+If a firm is making a loss - has no buffer - high costs - yet survives on funding rounds - and the firm is heavily valued - that could be (doesn’t have to be) that people anticipate this firm at some point to make money - or they simply follow the herd and it’s a bubble/inflated asset - and thus you should ask yourself - if by looking at accounting basics (income, costs, savings/cash buffer) - yet you see a prize to the moon - do you feel comfortable investing in that? What is your level of risk appetite? Just because your grannie does, doesn’t mean you should? Or wait - isn’t there some psychological nature here? Well, I’m already raising so much questions which relate back to myself when I started trading.
+
+I had no clue what I was doing.
+
+I had no mentor.
+
+I had nothing.
+
+But that’s not important.
+
+I did have the portfolio of my dad and the advice of the chap who managed it - and I read that through. My spidey senses tingled and albeit not even having finished high school at that point - I realized this wasn’t advice - this was just ‘sales’ - in the hope my dad would be sold a dream - the numbers his banker were providing him (“guesstimates”) were absolutely just not making sense.
+
+So I thought - well - fuck it - forget what it’s worth at the moment. As silly teenager I thought what do I think it’s worth? So I just grabbed the annual reports - started marking everything I didn’t know - I wrote down what metrics were commonly reported (I realized this is likely a mixture of regulatory metrics and ‘pleasing investors’ metrics) - and did a like for like comparison versus their price. I realized one firm didn’t have a metric posted versus the others and well - that already smells off - so I did more digging and found out a potential reason why.
+
+Every time I didn’t understand something - I started to look up what it could be. And always try to apply logical reasoning/common-sense thinking with a healthy dose of primal nature of human beings - this as ‘assets’ are ultimately worth nothing more than what you and I decide it to be worth. The majority is what rolls the ball here.
+
+I had folks tell me that based on historical ‘metrics’ some were overvalued - and thus they staid in cash - well I didn’t get that. Just because it’s overvalued based on historical numbers - you might be damn right it’s gonna crash. But before that - history has taught us not to underestimate how flawed we are as human beings. We are greedy and dumb as fuck.
+
+Just follow the herd - and you’ll find anomalies others had yet to spot. Hence I became the typical ‘event’ trader - I then realized recurring patterns (opening IPO, stocks picked up by reshuffling of pension funds, stocks picked up by another index, banks doing fixed reshuffling at fixed dates - etc (it obv helped I worked in banks most my life)).
+
+And all I did was just keep going - eventually you hear your first conference call - and albeit you did your accounting - comparison - you suddenly hear the douchebag you put $25k in shares-wise on a conference call and you think - wait a minute - these numbers on the income sheet, balance sheet, cash flow statement mean dick if that asshole is the one in charge (JCPenney for example) - you’re learning expands, and expands, and just be a sponge, soak up new information - try to dissect info out of it - but keep building - eventually I realized that with algo’s I could do something I couldn’t do with my hands - react quicker - money is money after all.
+
+Trading is nothing more of re-evaluating how much risk you are willing to take (regardless of your knowledge on the market) - and if you are capable intellectually to self-reflect on what you have done, why you bought or sold x,z,y and why it made money (luck, well-educated guess, arbitrage, herd behaviour, etc?) - then when shit goes wrong - you’ll never plummet to mother Earth.
+
+I genuinely don’t understand why people need books on ‘how to trade’ or ‘do BSc in Finance’ - as all they will get is standardized text 10000s of others get - while when it comes to consistent making of money on the market - it’s all about finding the anomalies others didn’t. You won’t get there if you have the same background like others.
+
+Best way to learn? Autodidact.
+
+Best way to keep learning? Ability to self reflect or having skilled people around you who’ll point out what you did wrong.
+
+Avoiding mistakes? Define mistakes when you invest. And above all - how much are you willing to risk? Your brain is a turd - every person has a breaking point - and you might not yet know this about yourself but a loss of 30% on a trade (if never experienced before) might yield an emotion of pain (shouldn’t) and you might end up in some merry go round that you want to recuperate that same loss the same day. So think ahead!
+
+Everyone should realize that if you had $100 bucks and lost 30%, it aint fucking 30% to get your money back. It’s more - so in other words - an emotional driven trade out of loss of pride or ego - while you have to take more risk than before. Not a surprise, these lot blow up their accounts!
+
+…… and start writing the self-help ‘how to trade’ books for sale on Amazon haha. Come on - wanna trade? Think. Reflect. Step back. Why? Keep peers on your level around you. You comfortable with what you trade? Rinse repeat.
+
+Why was my trade profitable? Well I thought it would be profitable because X, but was it X? Test it! Else you might end up believing your own shit and you’ll also blow up your account eventually.
+
+Over the years you’ll end up with a vv diversified portfolio of all sorts of strategies, stocks, algo’s, etc. And the learning never stops.
+
+
+
+
+
+Education: Learn about financial markets, trading strategies, risk management, and market analysis. This can be through self-study, online courses, books, or formal education.
+
+Choose your market: Decide whether you want to trade stocks, forex, commodities, cryptocurrencies, or other assets.
+
+Develop a trading plan: Define your trading goals, risk tolerance, time horizon, and strategies. A trading plan helps guide your decisions and keeps you disciplined.
+
+Practice with a demo account: Before risking real money, practice trading using a demo account to familiarize yourself with trading platforms and test your strategies.
+
+Start small: When you're ready to trade with real money, start with a small amount that you can afford to lose. As you gain experience and confidence, you can gradually increase your trading capital.
+
+Continuous learning and improvement: Stay updated on market trends, economic indicators, and trading techniques. Adapt your strategies as needed and learn from both your successes and failures.
+
+Risk management: Always prioritize risk management to protect your capital. This includes setting stop-loss orders, diversifying your trades, and avoiding over-leverage.
+
+Monitor your performance: Keep track of your trades and analyze your performance regularly. Identify areas for improvement and adjust your approach accordingly.
+
+Seek mentorship or join a trading community: Learning from experienced traders can accelerate your progress and provide valuable insights. Consider joining trading forums, attending seminars, or finding a mentor.
+
+Stay disciplined: Emotions like greed and fear can cloud your judgment. Stick to your trading plan and remain disciplined, even during periods of volatility or uncertainty.
+
+
+
+
+
+1. Understand the law of large numbers: The reason casinos are profitable is because out of a thousand tries the player makes, the casino wins more than 51% of the time. Depending on regulation, that number can be much higher. You must use the same concept with trading. By risking a minimal amount such as 1% or 2% you take advantage of the law of big numbers to increase your chances of being profitable. That is of course, if you understand and have applied the next steps.
+
+2. Understand how the markets move and why: Retail trades make a fraction of the market capital. In forex, that number is about 3% and less. The big financial institutions and funds control the markets. The reason price moves in a certain direction or another is not because most people believe it will move in that direction but rather because that’s where most of the volume is. The more capital you have, the more control you have over the market’s direction. Institutions trade with billions of dollars and their number one goal is to turn profit just as you and me. But they don’t care about others. They’ll sell where most will buy and buy where most will sell. They are market makers. Let’s say they want to move a certain pair up but they want to enter at a good price and have lots of supply to fulfill their demand, they only have to dump it so everyone starts closing out their buys and they can wipe the buyers, take their positions and enter at a much better price. The only reason prices move is because the big guys decided to make it move. To be profitable in this market, you must learn to understand price action and momentum. Those are two very important aspects of technical analysis. How can you tell where the momentum of the market is heading? By understanding price action. This is where candlestick reading and correlation with indicators such as EMAs or MACD comes in hand.
+
+3. Develop a system for trading: Your system could consist of figuring zones where buyers and sellers would start selling and doing the opposite of them. Or it could consist of waiting for the market to make a correction and ride the momentum the big guys put in place. There are different ways to trade but you must not trade all of them. Choose your style and perfect it. Become a systematic trader and define the different criteria that the market must respect for it to be a valid trade. Whenever placing a trade, go through those criteria to decide if the trade is valid. That will help you in sticking to your trading style as well as help you spot your trades more often since you’d always be going through those criteria.
+
+4. Be patient and simply trade like a robot: The future of the market is A.I. Funds are going to kick out traders and simply employ programmers to build them the best artificial intelligence possible. Why you may ask? Because robots stick to the rules and can always think objectively. We humans aren’t robots. We get tired, we get emotional, we make mistakes and at times, the chemistry in our brain isn’t right nor balanced and we do the total opposite that we would if we saw it from a detached perspective. Like a spectator watching a sportsman perform. We see their mistakes, but they might not. You must develop a mindset that allows you to trade at your best rational self. It’s simple to say, but complicated to apply and requires practice. If you do have a system that you’ve back-tested and refined to be as profitable as possible, if you do manage risk properly, if there is no pressure on you to make money to pay the bills, if you can trade from a completely detached standpoint and continuously, do just that then your chances of making it are higher.
+
+5. Keep refining and journaling your trades: You must keep track of your trades, so you know what you do right or wrong and where it is that you must improve. By not keeping a journal of your trades, you miss out on improving yourself. Looking back at what you did wrong can be very helpful and game changing. You start realizing your mistakes and start applying better methods to trade.
+
+6. Keep on going: Don’t expect to become rich in a year, let alone a few years. Unless of course, you’re learning from a mentor whom has a verified track record. The reality is that trading is a performance job and you’ll have to go through a lot of mistakes to be able to tell when the right and valid opportunities show up. It is a process that is going to take a lot of practicing and reviewing. You better trade demo your first year and save your money until you have promising results. If you do enjoy it, if it’s not tiring you to constantly make the correct decisions trade after trade. To constantly figure out what the market is planning on doing. If you don’t mind being wrong at times and the market going against, you because it will happen. If you don’t mind being a robot for a living, then trading might just be the job for you.
+
+Now, I must ask you this: “would you mind walking 10 kilometers on foot alone every day or would you prefer taking your car or the bus to work?”. The answer is obvious, we’d rather pick what brings us to our destination the fastest. We’d rather make use of technology to make our lives easier. Then I must ask you this second question. Would you mind placing trades every day manually and constantly analyzing the market for what it’s going to do next or would you prefer making use of the available technology to do it for you? Again, the answer is obvious, why pick my head every day, and perform at my best every day if there is the technology to do it for me available? See, that’s the reality of the situation. Trading is not going to be a manual job for very long. It is already happening; big institutional funds are letting go of their traders to instead hire top programmers to code their A.I software and keep it up to date. The truth is, it is much more profitable letting a piece of code do most of the work for you than rely on yourself to make proper timely decisions every day if you’re an active trader.
+
+If you aren't a day trader but rather someone that invests and holds long term, then this does not really apply to you since it requires to do some fundamental research about the company or the economy itself. I personally do not believe in manual day trading for the aforementioned reasons; it is simply not very dependable nor reliable. Am I saying it’s not possible? Certainly not. It’s simply not easy to achieve and maintain.
+
+
+
+
+
+
+1. Educate Yourself: Learn the basics of financial markets, trading strategies, and risk management through books, courses, and online resources.
+
+2. Choose Your Market: Decide whether you want to trade stocks, forex, commodities, or cryptocurrencies. Each market has its unique characteristics.
+
+3. Develop a Trading Plan: Define your goals, risk tolerance, and strategy. A solid plan includes entry and exit criteria, risk-reward ratios, and position sizing.
+
+4. Practice with a Demo Account: Hone your skills and test your strategy without real money. This helps you gain confidence and identify areas for improvement.
+
+5. Stay Informed: Keep abreast of market news, economic indicators, and global events. Stay informed about the assets you're trading.
+
+6. Risk Management: Set clear risk limits, and never risk more than you can afford to lose on a single trade. Implement stop-loss orders to manage potential losses.
+
+7. Choose a Reliable Broker: Research and select a reputable broker with a user-friendly platform and competitive fees.
+
+8. Start Small: Initially, trade with a small amount of capital. As you gain experience and confidence, you can gradually increase your position sizes.
+
+9. Review and Adapt: Regularly evaluate your performance, learn from mistakes, and adapt your strategy accordingly.
+
+10. Build a Support Network: Connect with other traders, join forums, and consider having a mentor. Learning from others' experiences can be invaluable.
+
+Remember, trading involves risk, and there are no guarantees. It's essential to be disciplined, patient, and continuously strive to improve and be consistent as that's the only thing which will help you become a profitable trader .
