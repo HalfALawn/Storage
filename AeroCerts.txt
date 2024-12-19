@@ -5,4 +5,6 @@ Category B1: Line maintenance certifying engineer - mechanical (manager for mech
 Category B2: Line maintenance certifying engineer - avionic    (manager for electrical components and systems)
 Category C : Base maintenance certifying engineer              (manager for entire aircraft, signs for complete maintenance)
 
+get aircraft type certificates accordingly
+
 https://www.caas.gov.sg/docs/default-source/pdf/singapore-airworthiness-requirements-part-66.pdf
