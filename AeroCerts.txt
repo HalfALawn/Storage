@@ -1,3 +1,8 @@
 Get Certifications like Cat A, B1, B2 then C.
 
+Category A : Certifying technician
+Category B1: Line maintenance certifying engineer - mechanical
+Category B2: Line maintenance certifying engineer - avionic
+Category C : Base maintenance certifying engineer
+
 https://www.caas.gov.sg/docs/default-source/pdf/singapore-airworthiness-requirements-part-66.pdf
